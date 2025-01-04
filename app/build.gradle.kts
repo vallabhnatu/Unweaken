@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "dev.oddbyte.unweaken"
-    compileSdk = 34
+    compileSdk = 31
 
     defaultConfig {
         applicationId = "dev.oddbyte.unweaken"
-        minSdk = 33
-        targetSdk = 34
+        minSdk = 31
+        targetSdk = 31
         versionCode = 1
         versionName = "1.0"
 
